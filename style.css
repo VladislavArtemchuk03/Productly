@@ -1,0 +1,209 @@
+.container-header {
+    max-width: 1126px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+}
+
+.container-logonavigation img {
+    align-items: left;
+    height: 31.97px;
+    width: 185.34px;
+}
+
+.text-start {
+
+    flex-direction: column;
+    gap: 20px;
+    font-family: var("FontAwesome", sans-serif);
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+}
+
+h2 {
+    text-align: center;
+    font-family: var("FontAwesome", sans-serif);
+    font-weight: 600;
+    font-size: 32px;
+    color: #000000;
+}
+
+nav ul {
+    align-items: center;
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #000000;
+    font-family: var("FontAwesome", sans-serif);
+    font-weight: 400;
+    font-size: 14px;
+
+}
+
+.menu-controls {
+    text-decoration: none;
+    color: #000000;
+    font-family: var("FontAwesome", sans-serif);
+    font-weight: 600;
+    font-size: 16px;
+
+}
+
+.container-start {
+    width: 1126px;
+    height: 496px;
+    margin: 0 auto;
+    display: flex;
+    align-items: left;
+    gap: 20px;
+}
+
+.text-start {
+    display: flex;
+    flex-direction: flex-start;
+    gap: 20px;
+    font-family: var("FontAwesome", sans-serif);
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+}
+
+.container-features {
+    width: 1126px;
+    align-items: center;
+    margin: 0 auto;
+    gap: 50px;
+}
+
+.section-features {
+    padding: 40px 0;
+}
+
+.features-items {
+    width: 1126px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    text-align: center;
+    box-sizing: border-box;
+    gap: 20px;
+}
+
+
+
+.container-effortless-validation {
+    width: 1126px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: flex;
+    gap: 20px;
+}
+
+.effortless-validation {
+    padding: 40px;
+}
+
+
+
+.text-box-red {
+    display: row;
+    flex-direction: column;
+    width: 531px;
+    height: 486px;
+}
+
+h4 {
+    font-family: var("FontAwesome", sans-serif);
+    font-weight: 500;
+    font-size: 30px;
+    color: #000000;
+}
+
+.signup-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+
+}
+
+.text-box-blue {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.check-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.check-row {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.container-validation {
+    width: 1126px;
+    margin: 0 auto;
+}
+
+.container-marketers {
+    display: flex;
+    width: 1126px;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text.text-box-yellow {
+    text-align: left;
+    width: 500px;
+    height: 609px;
+    flex-direction: column;
+}
+
+.container-footer {
+    gap: 20px;
+    height: 600px;
+    width: 1126px;
+    display: flex;
+    margin: 0 auto;
+
+}
+
+.footer-logo {
+    align-items: left;
+    row-gap: 50px;
+}
+
+.menu-footer {
+    display: flex;
+    width: 1126px;
+    height: 500px
+}
+
+.menu-abcf {
+    flex-direction: column;
+     width: 300px;
+    height: 200px
+
+}
+
+.menu-dfpt {
+    flex-direction: column;
+     width: 300px;
+    height: 200px
+
+}
